@@ -32,13 +32,13 @@ export default function TextForm(props) {
           ></textarea>
         </div>
         <button className="btn btn-primary mx-2" onClick={handleUpClick}>
-          Convert to Uppercase
+          Convert_to_Uppercase
         </button>
         <button className="btn btn-primary mx-2" onClick={handleLoClick}>
-          Convert to Lovercase
+          Convert_to_Lovercase
         </button>
         <button className="btn btn-primary mx-2" onClick={handleClearClick}>
-          Convert to Lovercase
+          Clier_text
         </button>
       </div>
       <div className="container my-3">
